@@ -1,1 +1,1 @@
-This is the sport dairy - Here we track our sports!
+This is the sport dairy - Here we track and brag our sports!
