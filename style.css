@@ -22,6 +22,7 @@ section {
 	border-radius: 30px;
 	position: relative;
 	z-index: 10;
+	box-shadow: 0px 14px 0px -1px #79ac72, 0px 24px 0px -1px #c48672, 0px 40px 0px -1px #cba674, 0px 68px 0px -1px #b9d7dc;
 }
 
 h1 {
